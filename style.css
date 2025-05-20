@@ -1,3 +1,15 @@
-body {
+h1 {
+  color: #f26a8d;
+text-decoration: overline underline dotted 8px #bcf4de;
+    letter-spacing: -1px;
+   word-spacing: 10px;
+}
 
+body {
+  background-color: #fbffb9;
+}
+
+img:hover {
+  widt: 300px
+    border-radious:70%
 }

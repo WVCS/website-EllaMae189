@@ -13,3 +13,25 @@ img:hover {
   widt: 300px
     border-radious:70%
 }
+nav {
+  list-style-type:none;
+  width: 100%;
+    background-color: #b8e0d2;
+  overflow:hidden;
+  position:fixed;
+    top: 0;
+  left:0;
+}
+
+li a {
+  color: #ff758f;
+  text-decoration: none;
+  display:block;
+  padding: 20px 100px;
+  float: left;
+}
+
+li a:hover {
+  background-color: #f4cae0;
+    color: #black;
+}

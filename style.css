@@ -10,8 +10,9 @@ body {
 }
 
 img:hover {
-  width; 300px
+  width: 300px;
     border-radious:70%
+  border: 12ppx dotted pink 
 }
 nav {
   list-style-type:none;

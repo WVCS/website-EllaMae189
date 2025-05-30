@@ -10,12 +10,12 @@ body {
 }
 
 img:hover {
-  widt: 300px
+  width; 300px
     border-radious:70%
 }
 nav {
   list-style-type:none;
-  width: 100%;
+  width; 100%;
     background-color: #b8e0d2;
   overflow:hidden;
   position:fixed;

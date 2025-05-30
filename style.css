@@ -11,8 +11,8 @@ body {
 
 img:hover {
   width: 300px;
-    border-radious:70%
-  border: 12ppx dotted pink 
+    border-radius:70%;
+  border: 12ppx dotted pink;
 }
 nav {
   list-style-type:none;
